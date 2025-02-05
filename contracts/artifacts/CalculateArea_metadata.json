@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/CalculateArea.sol": "CalculateArea"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/CalculateArea.sol": {
+			"keccak256": "0x019c6e9f4a3f23474f5c608d6942567dc0df7de044a633dc5685f40687acc91b",
+			"urls": [
+				"bzz-raw://6b4dc1a9da50de83d6c34250cb3b55287e0c1498d10ec7c2ae3b58a96025738c",
+				"dweb:/ipfs/QmYicTWeivA1ra1hYKguFK3xE3gLt6NrewDfwTr6qkvpSF"
+			]
+		}
+	},
+	"version": 1
+}

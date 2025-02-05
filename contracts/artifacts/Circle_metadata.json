@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.28+commit.7893614a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_radius",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "area",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/CalculateArea.sol": "Circle"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/CalculateArea.sol": {
+			"keccak256": "0x1e211d0cff19d61a02bf4e0141592753a4dd28e19304d94e02c7463e074f467f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://85f563c26cea7b09bf2dc94a79766d597ef759159a6dac3ed58e8832432c3e1f",
+				"dweb:/ipfs/QmSH8rVQxgkFs7S19PiKtfaekeLh6PxJwdEWMoihdvveUR"
+			]
+		}
+	},
+	"version": 1
+}
